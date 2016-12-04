@@ -7,12 +7,12 @@
 
     A general user can view tutorials and learn how to play chess. 
     A registered user can play games against their friends or random opponents. 
-    They can use the save and restore feature to playmultiple games simultaneously. 
+    They can use the save-and-restore feature to play multiple games simultaneously. 
     They will be rated for their game play.
 
     A tournament player can take part in online tournaments. 
-    The admin/tournament manager conducts all tournaments and manages the database. 
-    The tournament director will announce the start date for a tournament,
+    The admin/tournament manager conducts tournaments and manages the database. 
+    The admin announces the start date for a tournament,
     the last date for registration and the maximum number of players that can take part. 
     A tournament can either be open for all registered players 
     or user rankings maybe used as a cut-off. 
