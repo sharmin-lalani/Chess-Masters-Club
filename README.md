@@ -19,29 +19,29 @@
     
 # Features
 
-User profile management: Users can easily update their profiles and add friends to their list.
+    User profile management: Users can easily update their profiles and add friends to their list.
 
-Changeable themes support: The system allows users to change visual theme of the game UI.  
+    Changeable themes support: The system allows users to change visual theme of the game UI.  
 
-User friendly: Provides a help guide for beginners. The tutorials walk the users through each game rule.
+    User friendly: Provides a help guide for beginners. The tutorials walk the users through each game rule.
 
-User Rating System: An evaluation algorithm is employed to calculate user rating.  
+    User Rating System: An evaluation algorithm is employed to calculate user rating.  
 
-Tournament management: The admin/Tournament Director can organise tournaments as a commercial activity.
+    Tournament management: The admin/Tournament Director can organise tournaments as a commercial activity.
 
-Game save-and-restore: On-going games are automatically stored. Completed games are also saved for reviewing later.
+    Game save-and-restore: On-going games are automatically stored. Completed games are also saved for reviewing later.
 
-Export to PGN: Games can be exported to Portable Game Notation format, a plain text format for recording chess games.
+    Export to PGN: Games can be exported to Portable Game Notation format, a plain text format for recording chess games.
 
-Captcha Support:  For User verification as Human.
+    Captcha Support:  For User verification as Human.
 
 # Technologies
 
-J2EE, Servlets, JSP, JavaScript, AJAX
+    J2EE, Servlets, JSP, JavaScript, AJAX
 
 # Tools
 
-Rational Rose Enterprise Edition, Eclipse JEE Juno, DB2 - Express 'C', Apache Tomcat-7.0.37
+    Rational Rose Enterprise Edition, Eclipse JEE Juno, DB2 - Express 'C', Apache Tomcat-7.0.37
 
 
 
