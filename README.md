@@ -2,11 +2,20 @@
 
 # Project Overview
 
-    The sole function of the system is managing an Online Chess Club where game lovers can learn and play Chess games for fun and take part in tournaments.
+    The sole function of the system is managing an Online Chess Club 
+    where game lovers can learn and play Chess games for fun and take part in tournaments.
 
-    A general user can view tutorials and learn how to play chess. A registered user can play games against their friends or random opponents. They can use the save and restore feature to playmultiple games simultaneously. They will be rated for their game play.
+    A general user can view tutorials and learn how to play chess. 
+    A registered user can play games against their friends or random opponents. 
+    They can use the save and restore feature to playmultiple games simultaneously. 
+    They will be rated for their game play.
 
-    A tournament player can take part in online tournaments. The admin/tournament manager conducts all tournaments and manages the database. The tournament director will announce the start date for a tournament, the last date for registration and the maximum number of players that can take part. A tournament can either be open for all registered players or user rankings maybe used as a cut-off. Some tournaments may also have cash prizes.
+    A tournament player can take part in online tournaments. 
+    The admin/tournament manager conducts all tournaments and manages the database. 
+    The tournament director will announce the start date for a tournament,
+    the last date for registration and the maximum number of players that can take part. 
+    A tournament can either be open for all registered players 
+    or user rankings maybe used as a cut-off. 
     
 # Features
 
