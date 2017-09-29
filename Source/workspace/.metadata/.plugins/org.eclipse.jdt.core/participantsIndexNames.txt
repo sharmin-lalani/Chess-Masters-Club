@@ -1,0 +1,11 @@
+INDEX VERSION 1.126
+C:\Users\db2admin\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4216489903.index
+\cmc\src
+C:\Users\db2admin\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3324133194.index
+\cmc\src
+C:\Users\db2admin\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3636699061.index
+\cm\src
+C:\Users\db2admin\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4008066935.index
+\cmc\src
+C:\Users\db2admin\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3870964628.index
+\cmc\src

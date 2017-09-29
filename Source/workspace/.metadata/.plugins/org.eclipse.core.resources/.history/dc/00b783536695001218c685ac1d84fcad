@@ -1,0 +1,16 @@
+<%@page import="java.sql.*"%>
+  <%@include file="connection.jsp"%>
+  
+  <% 
+  if(con!=null)
+    {
+	String val=request.getParameter("value");
+    Statement stm=con.createStatement();
+    String query="select * from user where email=val";
+    ResultSet rs = stm.executeQuery(query);
+	if(rs==null) return 1;
+	else return 0;
+
+    }
+
+    %>

@@ -1,0 +1,12 @@
+<%@page import="java.sql.*"%>
+  <%@include file="connection.jsp"%>
+  
+  <% 
+  if(con!=null)
+    {
+	  String n=request.getParameter("value");
+    Statement stm=con.createStatement();
+    stm.execute("insert into user values('a')");
+    
+    }
+    %>

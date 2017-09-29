@@ -1,0 +1,26 @@
+<jsp:include page="check_session.jsp" />
+
+
+
+  
+  <% 
+  Class.forName("com.ibm.db2.jcc.DB2Driver");
+  Connection  con=DriverManager.getConnection("jdbc:db2://localhost:50000/CMC","db2admin","admin");
+ try
+  {
+	String val=request.getParameter("value");
+    Statement stm=con.createStatement();
+    String query="select * from user where email="+"'"+val+"'";
+    ResultSet rs = stm.executeQuery(query);
+    if (rs.next()) out.print("0");
+	else out.print("1");
+    stm.close();
+    con.close();
+
+   }
+  catch(Exception e)
+  {
+	  out.print("Sorry could not connect to the database");
+  }
+
+     %>

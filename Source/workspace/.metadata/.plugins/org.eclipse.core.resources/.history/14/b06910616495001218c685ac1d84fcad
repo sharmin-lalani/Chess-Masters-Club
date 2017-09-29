@@ -1,0 +1,13 @@
+  <jsp:include page="connection.jsp" />
+  
+  <% 
+  if(con!=null)
+    {
+    out.print("con");
+    Statement stm=con.createStatement();
+    stm.execute("insert into user values('a')");
+
+    //HttpSession s=request.getSession();
+    String n=request.getParameter("name");
+    }
+    %>
